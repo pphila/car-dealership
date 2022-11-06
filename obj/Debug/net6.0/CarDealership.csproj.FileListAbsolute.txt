@@ -1,0 +1,15 @@
+C:\Users\efl2i\OneDrive\Desktop\Epicodus\Epicodus-Aug-PT\C-sharp-pt\car-dealership\obj\Debug\net6.0\CarDealership.csproj.AssemblyReference.cache
+C:\Users\efl2i\OneDrive\Desktop\Epicodus\Epicodus-Aug-PT\C-sharp-pt\car-dealership\obj\Debug\net6.0\CarDealership.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\efl2i\OneDrive\Desktop\Epicodus\Epicodus-Aug-PT\C-sharp-pt\car-dealership\obj\Debug\net6.0\CarDealership.AssemblyInfoInputs.cache
+C:\Users\efl2i\OneDrive\Desktop\Epicodus\Epicodus-Aug-PT\C-sharp-pt\car-dealership\obj\Debug\net6.0\CarDealership.AssemblyInfo.cs
+C:\Users\efl2i\OneDrive\Desktop\Epicodus\Epicodus-Aug-PT\C-sharp-pt\car-dealership\obj\Debug\net6.0\CarDealership.csproj.CoreCompileInputs.cache
+C:\Users\efl2i\OneDrive\Desktop\Epicodus\Epicodus-Aug-PT\C-sharp-pt\car-dealership\bin\Debug\net6.0\CarDealership.exe
+C:\Users\efl2i\OneDrive\Desktop\Epicodus\Epicodus-Aug-PT\C-sharp-pt\car-dealership\bin\Debug\net6.0\CarDealership.deps.json
+C:\Users\efl2i\OneDrive\Desktop\Epicodus\Epicodus-Aug-PT\C-sharp-pt\car-dealership\bin\Debug\net6.0\CarDealership.runtimeconfig.json
+C:\Users\efl2i\OneDrive\Desktop\Epicodus\Epicodus-Aug-PT\C-sharp-pt\car-dealership\bin\Debug\net6.0\CarDealership.dll
+C:\Users\efl2i\OneDrive\Desktop\Epicodus\Epicodus-Aug-PT\C-sharp-pt\car-dealership\bin\Debug\net6.0\CarDealership.pdb
+C:\Users\efl2i\OneDrive\Desktop\Epicodus\Epicodus-Aug-PT\C-sharp-pt\car-dealership\obj\Debug\net6.0\CarDealership.dll
+C:\Users\efl2i\OneDrive\Desktop\Epicodus\Epicodus-Aug-PT\C-sharp-pt\car-dealership\obj\Debug\net6.0\refint\CarDealership.dll
+C:\Users\efl2i\OneDrive\Desktop\Epicodus\Epicodus-Aug-PT\C-sharp-pt\car-dealership\obj\Debug\net6.0\CarDealership.pdb
+C:\Users\efl2i\OneDrive\Desktop\Epicodus\Epicodus-Aug-PT\C-sharp-pt\car-dealership\obj\Debug\net6.0\CarDealership.genruntimeconfig.cache
+C:\Users\efl2i\OneDrive\Desktop\Epicodus\Epicodus-Aug-PT\C-sharp-pt\car-dealership\obj\Debug\net6.0\ref\CarDealership.dll
