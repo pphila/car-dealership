@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Inflatable Man's Dealership</title>
+    <link 
+      rel="stylesheet" 
+      href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" 
+      integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" 
+      crossorigin="anonymous">
+  </head>
+  <body>
+    @using Dealership.Models;
+    @using System;
+
+    <h1>Inflatable Man's Dealership</h1>
+    
+    @if (Model.Count == 0)
+    {
+      <p>Looks like we are sold out!</p>
+    }
+    <!--@if (Model.Count != 0)-->
+    
+    <ul>
+      @foreach (Car car in Model)
+      {
+        <li>@car.MakeModel</li>
+        <li>@car.Miles</li>
+        <li>@car.Price</li>
+      }
+    </ul>
+    <a href="/cars/new">Add a new car</a>
+  </body>
+</html>
