@@ -10,28 +10,12 @@
       crossorigin="anonymous">
   </head>
   <body>
-    @using Dealership.Models;
+    <h1>Your Possible New Car</h1>
 
-    <h1 class="jumbotron">Inflatable Man's Dealership</h1>
-    
-    @if (Model.Count == 0)
-    {
-      <p>Looks like we are sold out!</p>
-    }
-    @if (Model.Count != 0)
-    {
-      <ul>
-      @foreach (Car car in Model)
-      {
-        <li><a href='/cars/@car.Id'>@car.MakeModel</a></li>
-        <li>@car.Miles</li>
-        <li>@car.Price</li>
-        <hr>
-      }
-      
-      </ul>
-      
-    }
+    <h2>@Model.MakeModel</h2>
+
     <a href="/cars/new">Add a new car</a>
+    <br>
+    <a href="/cars">See list of cars</a>
   </body>
 </html>

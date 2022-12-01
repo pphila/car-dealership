@@ -26,5 +26,12 @@ namespace Dealership.Controllers
       Car myCar = new Car(makeModel, price, miles);
       return RedirectToAction("Index");
     }
+
+    [HttpGet("/cars/{id}")]
+    public ActionResult Show(int id)
+    {
+      Car foundCar = Car.Find(id);
+      return View(foundCar);
+    }
   }
 }
