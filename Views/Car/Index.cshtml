@@ -12,7 +12,7 @@
   <body>
     @using Dealership.Models;
 
-    <h1>Inflatable Man's Dealership</h1>
+    <h1 class="jumbotron">Inflatable Man's Dealership</h1>
     
     @if (Model.Count == 0)
     {
@@ -26,8 +26,11 @@
         <li>@car.MakeModel</li>
         <li>@car.Miles</li>
         <li>@car.Price</li>
+        <hr>
       }
+      
       </ul>
+      
     }
     <a href="/cars/new">Add a new car</a>
   </body>

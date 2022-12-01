@@ -4,7 +4,7 @@ using System.Collections.Generic;
 
 namespace Dealership.Controllers
 {
-  public class CarsController : Controller
+  public class CarController : Controller
   {
 
     [HttpGet("/cars")]
@@ -15,7 +15,7 @@ namespace Dealership.Controllers
     }
 
     [HttpGet("/cars/new")]
-    public ActionResult CreateForm()
+    public ActionResult NewCar()
     {
       return View();
     }
